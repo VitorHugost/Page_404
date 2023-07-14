@@ -63,6 +63,10 @@ a{
     background:var(--blue-light,#212187)
 
 }
+aside{
+    display: flex;
+    align-items: center;
+}
 
 
 
